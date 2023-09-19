@@ -2,8 +2,10 @@
 
 In this template, we build a page where users can claim NFTs from the [Edition Drop](https://portal.thirdweb.com/pre-built-contracts/edition-drop) contract.   
 
-`Preview:`
+## Preview   
 <a href="#"><img src="https://iili.io/JHyqjus.png" alt="JHyqjus.png" border="0" /></a>   
+
+## Demo https://warlocks-haqq-mint.vercel.app   
 
 ## Network   
 
